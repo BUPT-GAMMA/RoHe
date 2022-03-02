@@ -14,8 +14,11 @@ Run attack_HAN.ipynb and attack_HAN_RoHe.ipynb
 
 # Requirements
 -torch 1.3.1
+
 -dgl
+
 -deeprobust
+
 -sklearn
 
 
